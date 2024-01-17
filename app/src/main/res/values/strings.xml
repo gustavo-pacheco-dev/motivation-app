@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MotivationApp</string>
+    <string name="phrase1">Riscos devem ser corridos, porque o maior perigo é não arriscar nada!</string>
+    <string name="hello">Olá</string>
+    <string name="new_phrase">Nova frase</string>
+    <string name="home_page_content_description">Home</string>
+    <string name="happy_content_description">Happy Emoji</string>
+    <string name="sun_content_description">Sun</string>
+
+    <string name="user">Usuário</string>
+    <string name="phrase">Frase</string>
+    <string name="save">Salvar</string>
+    <string name="lets_begin">Vamos começar?</string>
+    <string name="phrases_all">Todas as frases</string>
+    <string name="phrases_motivation">Frases de motivação</string>
+    <string name="phrases_morning">Frases para manhã</string>
+    <string name="validation_mandatory_name">Informe seu nome.</string>
+    <string name="whats_your_name">Qual seu nome?</string>
+</resources>
